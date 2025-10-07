@@ -7,6 +7,8 @@ It integrates **Ethernet connectivity**, **USB programming**, and **Power-over-E
 
 The design was fully created in **KiCad 9.0.3**, including schematic, PCB layout, and 3D mechanical validation.
 
+![3d](./3d.png)
+
 ---
 
 ## Key Features
